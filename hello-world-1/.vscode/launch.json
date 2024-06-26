@@ -1,0 +1,16 @@
+{
+    "configurations": [
+      {
+        "name": "Deploy Cloud Function",
+        "type": "cloudcode.cloudfunctions",
+        "request": "launch",
+        "functionName": "function-hello-world",
+        "gen": "GEN_2",
+        "entryPoint": "upbit_trade",
+        "revision": "function-hello-world-00058-cil",
+        "testInput": "",
+        "region": "asia-northeast3",
+        "runtime": "python39"
+      }
+    ]
+}
